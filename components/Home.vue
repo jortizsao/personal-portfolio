@@ -3,9 +3,10 @@
 		<div class="intro">
 			<div class="intro-sub">Javier Ortiz Saorin</div>
 			<h1>Software <span>Engineer</span></h1>
-			<p>Senior Software Engineer with 10 years of experience in web applications, microservices and cloud solutions<br> 
-      My primary role has been technical lead in every project I’ve worked during the last years
-        <br>Vue.js, AngularJS, Node.js, Express.js, Docker, Kubernetes, AWS
+			<p>
+        Senior Software Engineer with 10 years of experience in <b>web applications, microservices and cloud solutions</b><br> 
+        My primary role has been technical lead in every project I’ve worked during the last years<br>
+        Vue.js, AngularJS, Node.js, Express.js, Docker, Kubernetes, AWS
       </p>
 
       <div class="social-icons">
