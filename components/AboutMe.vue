@@ -13,7 +13,7 @@
             <ul>
               <li><strong>Name:</strong> Javier Ortiz Saorin</li>
               <li><strong>Date of birth:</strong> 11 Feb 1982</li>
-              <li><strong>Address:</strong> </li>
+              <li><strong>City:</strong> Valencia (Spain)</li>
               <li><strong>Nationality:</strong> Spanish</li>
               <li><strong>Email:</strong> javier.ortizsaorin@gmail.com</li>
             </ul>
@@ -22,32 +22,27 @@
 
         <div class="col-md-8 col-md-pull-4">
           <div class="short-info wow fadeInUp">
-            <h3>Objective</h3>
-            <p>An opportunity to work and upgrade oneself, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community. I'm presently expanding my solid experience in UI / UX design. I focus on using my interpersonal skills to build good user experience and create a strong interest in my employers. I hope to develop skills in motion design and my knowledge of the Web, and become an honest asset to the business. As an individual, I'm self-confident you’ll find me creative, funny and naturally passionate. I’m a forward thinker, which others may find inspiring when working as a team.</p>
+            <h3>software development</h3>
+            <p>Senior Software Engineer with 10 years of experience in <b>web applications, microservices and cloud solutions</b>. <br><br>
+            My primary role has been <b>technical lead</b> in every project I’ve worked during the last years, also being in direct contact with the clients to understand their business necessities and goals, and providing them the most effective high-tech solutions. <br><br>
+            With ample experience in AngularJS, Vue.js, Node.js, Express.js, Javascript ES6/ES7, Docker, Kubernetes, AWS, commercetools. <br><br>
+          </p>
           </div>
 
           <div class="short-info wow fadeInUp">
-            <h3>What I Do ?</h3>
-            <p>I have been working as a web interface designer since. I have a love of clean, elegant styling, and I have lots of experience in the production of CSS3 and HTML5 for modern websites. I loving creating awesome as per my clients’ need. I think user experience when I try to craft something for my clients. Making a design awesome.</p>
+            <h3>leadership</h3>
+            <p>Furthermore, I have established the software development processes, tools, and technologies as the <b>CTO</b> of the <b>startup</b> company I’ve worked for the past three years. <br><br>
+              Being in this position, has given me the opportunity to use my skills and expertise to be part and leader of a growing team of more than 15 developers. </p>
 
             <ul class="list-check">
-              <li>User Experience Design</li>
-              <li>Interface Design</li>
-              <li>Product Design</li>
-              <li>Branding Design</li>
-              <li>Digital Painting</li>
-              <li>Video Editing</li>
+              <li>Microservices</li>
+              <li>Cloud</li>
+              <li>Technical Lead</li>
+              <li>Full Stack Developer</li>
+              <li>Kubernetes</li>
+              <li>E-Commerce</li>
             </ul>
           </div>
-
-          <!-- <div class="my-signature">
-            <img src="assets/images/sign.png" alt="">
-          </div> -->
-
-          <!-- <div class="download-button">
-            <a class="btn btn-info btn-lg" href="#contact"><i class="fa fa-paper-plane"></i>Send me message</a>
-            <a class="btn btn-primary btn-lg" href="#"><i class="fa fa-download"></i>download my cv</a>
-          </div> -->
         </div>
       </div>
     </div>
