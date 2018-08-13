@@ -35,12 +35,12 @@
               Being in that position, gave me the opportunity to use my skills and expertise to be part and leader of a growing team of more than 15 developers. </p>
 
             <ul class="list-check">
-              <li>Microservices</li>
-              <li>Cloud</li>
-              <li>Technical Lead</li>
-              <li>Full Stack Developer</li>
-              <li>Kubernetes</li>
-              <li>E-Commerce</li>
+              <li><font-awesome-icon class="icon" :icon="['fas', 'check']" />Microservices</li>
+              <li><font-awesome-icon class="icon" :icon="['fas', 'check']" />Cloud</li>
+              <li><font-awesome-icon class="icon" :icon="['fas', 'check']" />Technical Lead</li>
+              <li><font-awesome-icon class="icon" :icon="['fas', 'check']" />Full Stack Developer</li>
+              <li><font-awesome-icon class="icon" :icon="['fas', 'check']" />Kubernetes</li>
+              <li><font-awesome-icon class="icon" :icon="['fas', 'check']" />E-Commerce</li>
             </ul>
           </div>
         </div>

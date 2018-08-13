@@ -15,7 +15,6 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' },
       { rel: 'stylesheet', media: 'screen', href: '/bootstrap/css/bootstrap.min.css' },
-      { rel: 'stylesheet', media: 'screen', href: '/css/font-awesome.min.css' },
       { rel: 'stylesheet', href: '/css/animate.css' },
       { rel: 'stylesheet', href: '/css/magnific-popup.css' },
       { rel: 'stylesheet', media: 'screen', href: '/css/style.css' },

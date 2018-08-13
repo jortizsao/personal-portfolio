@@ -277,9 +277,7 @@ ul.list-check li{
     font-size: 18px;
     line-height: 32px;
 }
-ul.list-check li::before {
-    content: "\f00c";
-    font-family: fontawesome;
+ul.list-check li svg {
     color: #68c3a3;
     margin-right: 10px;
 }
