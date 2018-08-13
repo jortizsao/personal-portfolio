@@ -25,7 +25,6 @@ module.exports = {
       { src: '/bootstrap/js/bootstrap.min.js', body: true },
       { src: '/js/jquery.stellar.min.js', body: true },
       { src: '/js/jquery.sticky.js', body: true },
-      { src: '/js/smoothscroll.js', body: true },
       { src: '/js/wow.min.js', body: true },
       { src: '/js/jquery.countTo.js', body: true },
       { src: '/js/jquery.inview.min.js', body: true },
