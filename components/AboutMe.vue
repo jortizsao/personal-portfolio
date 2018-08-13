@@ -31,8 +31,8 @@
 
           <div class="short-info wow fadeInUp">
             <h3>leadership</h3>
-            <p>Furthermore, I have established the software development processes, tools, and technologies as the <b>CTO</b> of the <b>startup</b> company I’ve worked for the past three years. <br><br>
-              Being in this position, has given me the opportunity to use my skills and expertise to be part and leader of a growing team of more than 15 developers. </p>
+            <p>Furthermore, I established the software development processes, tools, and technologies as the <b>CTO</b> of the <b>startup</b> company I worked for the past three years. <br><br>
+              Being in that position, gave me the opportunity to use my skills and expertise to be part and leader of a growing team of more than 15 developers. </p>
 
             <ul class="list-check">
               <li>Microservices</li>

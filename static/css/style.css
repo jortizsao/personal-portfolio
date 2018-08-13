@@ -594,6 +594,10 @@ SOCIAL ICON
 
 
 /* === About Section === */
+.about-section {
+    padding-bottom: 0px;
+}
+
 .short-info {
     margin-bottom: 40px;
 }
@@ -876,8 +880,13 @@ Resume Timeline
     margin-bottom: 20px;
 }
 
+.timeline>li a {
+    color: black;
+}
 
-
+.timeline>li a:hover {
+    color: white;
+}
 
 
 @media(min-width:992px) {
