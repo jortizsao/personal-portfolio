@@ -391,6 +391,12 @@ SOCIAL ICON
     padding: 0 12px;
 }
 
+.social-icons .names {
+    padding: 15px 0px;
+    color: white;
+    font-size: 12px;
+}
+
 .social-icons a i{
     position: relative;
     color: #fff;
@@ -436,7 +442,6 @@ SOCIAL ICON
 .social-icons a svg{
     position: relative;
     color: #fff;
-    font-size: 18px;
     margin: 0 7px;
     line-height: 40px;
     text-align: center;
@@ -1498,19 +1503,15 @@ Icon for all respective meta
 
 /* === Hire Section === */
 .hire-section {
-    background: url(../../assets/images/hire-bg.jpg) no-repeat top center #68C3A3;
+    background: url(/images/hire-bg.jpg) no-repeat top center #68C3A3;
     background-attachment: fixed;
     background-size: cover;
     color: #fff;  
 }
 .hire-section-bg {
     padding: 110px 0;
-    background: -webkit-linear-gradient(bottom, #68C3A3, rgba(104, 195, 163, 0.7)); /*Safari 5.1-6*/
-    background: -o-linear-gradient(top, #68C3A3, rgba(104, 195, 163, 0.7)); /*Opera 11.1-12*/
-    background: -moz-linear-gradient(top, #68C3A3, rgba(104, 195, 163, 0.7)); /*Fx 3.6-15*/
-    background: linear-gradient(to top, #68C3A3, rgba(104, 195, 163, 0.7)); /*Standard*/
+    background: rgba(0, 0, 0, 0.8) 
 }
-
 .hire-section h2 {
     font-size: 36px;
     margin-bottom: 40px;
@@ -1529,9 +1530,6 @@ Icon for all respective meta
 .contact-section strong {
     display: block;
     text-transform: uppercase;
-}
-.contact-form strong {
-    margin-bottom: 40px;
 }
 
 .contact-form textarea.form-control {

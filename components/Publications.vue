@@ -1,5 +1,5 @@
 <template>
-  <section id="blog" class="latest-blog-section section-padding">
+  <section id="publications" class="latest-blog-section section-padding">
     <div class="container">
       <h2 class="section-title wow fadeInUp">Publications</h2>
 
