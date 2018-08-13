@@ -58,6 +58,9 @@ module.exports = {
       }
     }
   },
-  plugins: ['~/plugins/vue-fontawesome']
+  plugins: ['~/plugins/vue-fontawesome'],
+  modules: [
+    '@nuxtjs/pwa',
+  ],
 }
 
