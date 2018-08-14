@@ -1451,6 +1451,11 @@ Icon for all respective meta
     text-transform: uppercase;
 }
 
+.contact-form {
+    font-size: 20px;
+}
+
+
 .contact-form textarea.form-control {
     height: 115px;
 }
