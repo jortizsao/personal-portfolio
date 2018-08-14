@@ -8,7 +8,7 @@ module.exports = {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Personal page of Javier Ortiz Saorin, software engineer' },
-      { name: 'keywords', content: 'freelance, software engineer, software developer, e-commerce, commercetools, javascript, node.js, vue.js' },
+      { name: 'keywords', content: 'freelance, software engineer, software developer, e-commerce, commercetools, javascript, node.js, vue.js, microservices, aws, kubernetes' },
       { name: 'author', content: 'Javier Ortiz Saorin <javier.ortizsaorin@gmail.com>' }
     ],
     link: [
@@ -31,7 +31,6 @@ module.exports = {
       { src: '/js/jquery.easypiechart.js', body: true },
       { src: '/js/jquery.shuffle.min.js', body: true },
       { src: '/js/jquery.magnific-popup.min.js', body: true },
-      { src: 'https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false', body: true },
       { src: '/js/scripts.js', body: true },
     ],
   },

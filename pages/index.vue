@@ -6,6 +6,7 @@
     <Resume />
     <Skills />
     <Publications />
+    <References />
     <GetHired />
     <Contact />
   </div>
@@ -19,6 +20,7 @@ import Skills from '@/components/Skills.vue';
 import Publications from '@/components/Publications.vue';
 import GetHired from '@/components/GetHired.vue';
 import Contact from '@/components/Contact.vue';
+import References from '@/components/References.vue';
 
 export default {
   components: {
@@ -30,6 +32,7 @@ export default {
     Publications,
     GetHired,
     Contact,
+    References,
   }
 }
 </script>
