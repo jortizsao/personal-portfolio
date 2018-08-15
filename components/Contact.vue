@@ -8,7 +8,7 @@
           <div class="contact-form text-center">
             <strong>Javier Ortiz Saorin</strong>
             <strong>Software Engineer</strong>
-            <strong>Email: <a href="mailto:javier.ortizsaorin@gmail.com" target="_top">javier.ortizsaorin@gmail.com</a></strong>
+            <strong>Email: <a href="mailto:javier@orsaorin.com" target="_top">javier@orsaorin.com</a></strong>
           </div><!-- /.contact-form -->
         </div><!-- /.col-md-6 -->
       </div><!-- /.row -->

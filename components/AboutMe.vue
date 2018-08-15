@@ -15,7 +15,7 @@
               <li><strong>Date of birth:</strong> 11 Feb 1982</li>
               <li><strong>City:</strong> Valencia (Spain)</li>
               <li><strong>Nationality:</strong> Spanish</li>
-              <li><strong>Email:</strong> javier.ortizsaorin@gmail.com</li>
+              <li><strong>Email:</strong> javier@orsaorin.com</li>
             </ul>
           </div>
         </div>
