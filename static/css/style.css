@@ -683,8 +683,8 @@ SOCIAL ICON
 
 .references-section .reference .author {
     font-size: 22px;
-    font-weight: 400;
-    color: #68c3a3;
+    font-weight: 600;
+    color: #2c3e50;
     text-align: center;
     padding-top: 10px;
 }
@@ -1341,9 +1341,10 @@ Resume Timeline
 }
 
 .the-category {
-    color: #68c3a3;
+    color: #aba6a6;
     text-transform: uppercase;
     font-size: 12px;
+    font-weight: 400;
 }
 
 .the-category a {
