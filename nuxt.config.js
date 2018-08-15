@@ -59,6 +59,9 @@ module.exports = {
   plugins: ['~/plugins/vue-fontawesome'],
   modules: [
     '@nuxtjs/pwa',
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-123955428-1'
+    }]
   ],
 }
 
