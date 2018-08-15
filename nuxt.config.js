@@ -9,7 +9,9 @@ module.exports = {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Personal page of Javier Ortiz Saorin, software engineer' },
       { name: 'keywords', content: 'freelance, software engineer, software developer, e-commerce, commercetools, javascript, node.js, vue.js, microservices, aws, kubernetes' },
-      { name: 'author', content: 'Javier Ortiz Saorin <javier.ortizsaorin@gmail.com>' }
+      { name: 'author', content: 'Javier Ortiz Saorin <javier@orsaorin.com>' },
+      { name: 'name', content: 'orsaorin' },
+      { name: 'og:descritption', content: 'Personal page of Javier Ortiz Saorin, software engineer' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
