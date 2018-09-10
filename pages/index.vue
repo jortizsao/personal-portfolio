@@ -4,9 +4,9 @@
     <Navigation />
     <AboutMe />
     <Resume />
-    <Skills />
+    <!-- <Skills /> -->
     <Publications />
-    <References />
+    <!-- <References /> -->
     <GetHired />
     <Contact />
   </div>
@@ -16,11 +16,11 @@ import Home from '@/components/Home.vue';
 import Navigation from '@/components/Navigation.vue';
 import AboutMe from '@/components/AboutMe.vue';
 import Resume from '@/components/Resume.vue';
-import Skills from '@/components/Skills.vue';
+// import Skills from '@/components/Skills.vue';
 import Publications from '@/components/Publications.vue';
 import GetHired from '@/components/GetHired.vue';
 import Contact from '@/components/Contact.vue';
-import References from '@/components/References.vue';
+// import References from '@/components/References.vue';
 
 export default {
   components: {
@@ -28,11 +28,11 @@ export default {
     Navigation,
     AboutMe,
     Resume,
-    Skills,
+    // Skills,
     Publications,
     GetHired,
     Contact,
-    References,
+    // References,
   }
 }
 </script>

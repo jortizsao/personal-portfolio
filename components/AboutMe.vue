@@ -10,22 +10,15 @@
             <div class="myphoto">
               <img src="/images/myphoto.jpg" alt="">
             </div>
-            <ul>
-              <li><strong>Name:</strong> Javier Ortiz Saorin</li>
-              <li><strong>Date of birth:</strong> 11 Feb 1982</li>
-              <li><strong>City:</strong> Valencia (Spain)</li>
-              <li><strong>Nationality:</strong> Spanish</li>
-              <li><strong>Email:</strong> javier@orsaorin.com</li>
-            </ul>
           </div>
         </div>
 
         <div class="col-md-8 col-md-pull-4">
           <div class="short-info wow fadeInUp">
             <h3>software development</h3>
-            <p>Senior Software Engineer with 10 years of experience in <b>web applications, microservices and cloud solutions</b>. <br><br>
+            <p>Senior Software Engineer with <b>10 years</b> of experience in <b>web applications, microservices and cloud solutions</b>. <br><br>
             My primary role has been <b>technical lead</b> in every project I’ve worked during the last years, also being in direct contact with the clients to understand their business necessities and goals, and providing them the most effective high-tech solutions. <br><br>
-            With ample experience in AngularJS, Vue.js, Node.js, Express.js, Javascript ES6/ES7, Docker, Kubernetes, AWS, commercetools. <br><br>
+            With ample experience in <b>AngularJS, Vue.js, Node.js, Express.js, Javascript ES6/ES7, Docker, Kubernetes, AWS and commercetools.</b> <br><br>
           </p>
           </div>
 
